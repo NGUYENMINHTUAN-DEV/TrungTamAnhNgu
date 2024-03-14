@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Do_An_Chuyen_Nganh", "Do_An_Nonsql\Do_An_Chuyen_Nganh.csproj", "{EFEC5975-8E97-4F48-A65F-DE900ED096AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{E04DD907-2E83-4F26-8CD1-7E65E145F37D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_BLL", "_BLL\_BLL.csproj", "{DA2DC614-4D69-470B-8ACE-DCC0DBC0EE4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GUI", "GUI", "{55A63101-707B-49C7-A833-3D7ADC50FA2D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetUp", "SetUp\SetUp.vdproj", "{57F9E6C2-0CD7-43B6-A25D-02CD1FF841DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEC5975-8E97-4F48-A65F-DE900ED096AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC5975-8E97-4F48-A65F-DE900ED096AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC5975-8E97-4F48-A65F-DE900ED096AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC5975-8E97-4F48-A65F-DE900ED096AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2DC614-4D69-470B-8ACE-DCC0DBC0EE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2DC614-4D69-470B-8ACE-DCC0DBC0EE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2DC614-4D69-470B-8ACE-DCC0DBC0EE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2DC614-4D69-470B-8ACE-DCC0DBC0EE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F9E6C2-0CD7-43B6-A25D-02CD1FF841DC}.Debug|Any CPU.ActiveCfg = Debug
+		{57F9E6C2-0CD7-43B6-A25D-02CD1FF841DC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFEC5975-8E97-4F48-A65F-DE900ED096AA} = {55A63101-707B-49C7-A833-3D7ADC50FA2D}
+		{DA2DC614-4D69-470B-8ACE-DCC0DBC0EE4B} = {E04DD907-2E83-4F26-8CD1-7E65E145F37D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17D49C9A-E04A-4FF1-AC86-EB8167157DAF}
+	EndGlobalSection
+EndGlobal

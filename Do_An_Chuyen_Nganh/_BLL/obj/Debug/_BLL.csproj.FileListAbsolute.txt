@@ -1,0 +1,737 @@
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\DOAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhi\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\BaoCaoDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EnvDTE.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\stdole.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.MSXML.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thư mục mới (3)\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EnvDTE.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\stdole.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Data.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Data.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\ĐẠI HOC\DOAN\MoiNhatNhat\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EnvDTE.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\stdole.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.MSXML.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EnvDTE.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\CNNE\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\rptHoaDon.rdlc
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\rptHoaDon.rdlc
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EnvDTE.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\stdole.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\MoiNhatDoAN\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\rptHoaDon.rdlc
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll.config
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\_BLL.pdb
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.Interfaces.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.System.Drawing.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EnvDTE.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\stdole.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\CsvHelper.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\EPPlus.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\itextsharp.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Buffers.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Memory.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\System.ValueTuple.xml
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.AssemblyReference.cache
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CoreCompileInputs.cache
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.csproj.CopyComplete
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.dll
+D:\ĐẠI HOC\DoAn\CNTT039_NguyenMinhTuan\CNTT039_NguyenMinhTuan\Do_An_Chuyen_Nganh\_BLL\obj\Debug\_BLL.pdb
